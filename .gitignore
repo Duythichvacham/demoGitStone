@@ -1,0 +1,5 @@
+# index.html
+# Có những file chúng ta không muốn bị git giám sát
+#  thì chỉ cần tạo file .gitignore và thêm các file và folder vào file .gitignore
+# trong file này có index.html => lúc này nó đã k nằm trong tầm kiểm soát của git
+# những data ở đây push lên sv sẽ k ai thấy - clone k lấy đc
